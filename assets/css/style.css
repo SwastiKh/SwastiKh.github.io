@@ -28,6 +28,10 @@
   right: 0;
 }
 
+.text-white {
+  color: #fff;
+}
+
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 .social {
   margin: 0 auto;
@@ -139,10 +143,6 @@ body {
   color: #009688;
 } */
 
-a {
-  color: #004d40;
-}
-
 /* main blockqoute */
 
 /* blockquote {
@@ -200,7 +200,7 @@ nav i {
 } */
 
 main {
-  background: url(../../assets/img/bg.png) repeat;
+  background: #254E58;
   padding-left: 190px;
 }
 
@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #254E58;
   position: relative;
 }
 
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #45A29E !important;
 }
 
 /* .teal {
