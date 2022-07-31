@@ -108,7 +108,8 @@
   position: relative;
   padding: 11px 35px;
   background: none;
-  color: #fff;
+  background: #fff;
+  color: #00796b;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -120,8 +121,8 @@
 }
 
 .contactme:hover{
-  color: #00796b;
-  background-color: white;
+  color: white;
+  background-color: #00796b;
 }
 /* main body */
 
