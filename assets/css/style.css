@@ -389,8 +389,8 @@ h3 {
 }
 
 .card li a.prof-name {
-text-transform: none !important;
-border-bottom: none;
+  text-transform: none !important;
+  border-bottom: 2px solid #000;
 }
 .card li a:hover {
   color: #333;
