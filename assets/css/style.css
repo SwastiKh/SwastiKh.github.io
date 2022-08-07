@@ -455,6 +455,12 @@ h3 {
   line-height: 2.5rem;
 }
 
+.card .card-content .publication {
+  padding: 20px 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+
 .card i.right {
   margin-left: 10px;
 }
