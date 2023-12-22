@@ -1,4 +1,4 @@
-# Personal Portfolio ⚡️ 
+# Personal Portfolio  
 
 > https://swastikh.github.io/
 ## License 📄
